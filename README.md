@@ -7,8 +7,12 @@ The project FWOS Cloud Agent DIDComm contains modules that extend the Cloud Agen
 It contains:
 - DIDComm_SDK
     - [Basic Message](https://github.com/hyperledger/aries-rfcs/tree/main/features/0095-basic-message)
+        - (Deprecated) - currently being reworked
     - [Question Answer 1.0](https://didcomm.org/question-answer/1.0/)
+        - DIDComm messaging v2
     - [Trust Ping 2.0](https://identity.foundation/didcomm-messaging/spec/#trust-ping-protocol-20)
+        - DIDComm messaging v1
+        - DIDComm messaging v2
 
 # Development
 
