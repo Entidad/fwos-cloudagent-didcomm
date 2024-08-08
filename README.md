@@ -11,13 +11,14 @@ It contains:
     - [Question Answer 1.0](https://didcomm.org/question-answer/1.0/)
         - DIDComm messaging v1
         - DIDComm messaging v2
+    - [Remote Procedure Call 1.0](https://didcomm.org/drpc/1.0/)
+        - DIDComm messaging v1
     - [Trust Ping 2.0](https://identity.foundation/didcomm-messaging/spec/#trust-ping-protocol-20)
         - DIDComm messaging v1
         - DIDComm messaging v2
     - [User Profile 1.0](https://didcomm.org/user-profile/1.0/)
         - DIDComm messaging v1
         - DIDComm messaging v2
-
 
 # Development
 
